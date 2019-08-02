@@ -1,0 +1,71 @@
+const roseFrench = 
+{results:
+    [{
+    gender:"female",
+        name:
+            {
+            title:"mrs",
+            first:"rose",
+            last:"french"
+            },
+        location:
+            {
+            street:"9320 wellington st",
+            city:"south river",
+            state:"yukon",
+            postcode:"L8S 4N1",
+            coordinates:
+                {
+                latitude:"-63.6028",
+                longitude:"146.6496"
+                },
+            timezone:
+                {
+                offset:"-10:00",
+                description:"Hawaii"
+                }
+            },
+        email:"rose.french@example.com",
+            login:
+                {
+                uuid:"e481efce-5a4a-43b9-8214-af5ee614fe8c",
+                username:"goldenostrich983",
+                password:"baller",
+                salt:"NrMmSMWk",
+                md5:"4d783f91a19e95be2efc085415da42eb",
+                sha1:"00fa1732da4bfbb0f40b951f1d781564c39af630",
+                sha256:"57933dc5e1ba838b59a7d66b7503e411b0523cf47b5530fb89548eed6cf40cdc"
+                },
+        dob:
+            {
+            date:"1963-10-24T19:57:58Z",
+            age:55
+            },
+        registered:
+            {
+            date:"2016-12-16T10:05:25Z",
+            age:2
+            },
+        phone:"402-995-7927",
+        cell:"228-636-7056",
+        id:
+            {
+            name:"",
+            value:null
+            },
+        picture:
+            {
+            large:"https://randomuser.me/api/portraits/women/87.jpg",
+            medium:"https://randomuser.me/api/portraits/med/women/87.jpg",
+            thumbnail:"https://randomuser.me/api/portraits/thumb/women/87.jpg"
+            },
+        nat:"CA"
+    }],
+info:
+    {
+    seed:"d8839c67cef28b5f",
+    results:1,
+    page:1,
+    version:"1.2"
+    }
+}

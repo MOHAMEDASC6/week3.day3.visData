@@ -11,7 +11,7 @@
    - The URL would look something like “https://randomuser.me/api/?results=5”
 4. Make a request for anywhere between 10 and 30 users
 5. Copy ALL of the JSON (`Ctrl + A` then `Ctrl + C`) and paste it into the “data.js” file storing it into a variable called `data`
-   - In your “index.html” file, I would recommend referencing the “data.js” file and THEN a “main.js” file, which is where you’ll write your code. It’s a good idea to keep data and data manipulation separate!
+   - In your “index.html” file, I would recommend referencing the “data.js” file and THEN a “main.js” file, which is where you’ll write your code. It’s a good idea to main.js keep data and data manipulation separate!
 6. Using everything you know about creating and designing websites, the DOM, event handlers, and objects, you will create a single web page that displays the JSON data in any way you see fit
 7. Before you begin…
    - Wireframe your concept
